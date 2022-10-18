@@ -1,2 +1,2 @@
-# kickstater-analysis
-Analysis of Kickstarter Data for Theater Related Trends
+# Analysis of Kickstarter Campaigns
+In this analysis multipul Kickstarter campaigns were looked at with the intention of fiding trends and information that will help launch a successful Kickstarter campaign for a Theater production or play.
