@@ -1,2 +1,2 @@
 # kickstater-analysis
-Analysis of Kickstarter Data for theater related trends
+Analysis of Kickstarter Data for Theater Related Trends
